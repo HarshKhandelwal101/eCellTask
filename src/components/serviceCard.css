@@ -1,0 +1,45 @@
+.services {
+  background-color:#15D4A3;
+  /* rgb(81, 211, 198); */
+  border-radius: 4px;
+  box-sizing: border-box;
+  box-shadow: 0px 8px 21px -10px rgba(0, 0, 0, 0.08);
+  margin-bottom: 55px;
+}
+.services_dark{
+  background-color: rgb(24, 39, 80);
+}
+
+
+
+
+.media-body {
+  box-sizing: border-box;
+  margin-top: 40px;
+  transition: all 0.3s ease;
+  color: rgba(255, 255, 255, 0.9);
+  flex: 1;
+  text-align: center;
+  padding: 10%;
+}
+img.font {
+  margin-top: -40px;
+
+  width: 90px;
+  height: 90px;
+  background: transparent;
+}
+
+.arrow {
+  background-color: white;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  padding-top: 12px;
+  margin-bottom: -20px;
+}
+
+.ab {
+  float: left;
+}

@@ -1,0 +1,27 @@
+#body-footer {
+    background-image: url(https://cdn.dribbble.com/users/2417352/screenshots/14102107/media/8ce39639cbd7d29c405411865fea770e.png?compress=1&resize=1000x750);
+    /* opacity: 0.9; */
+    height: 50vh;
+    /* width: 100vh; */
+    background-position: center;
+    background-size: contain;
+    
+    background-attachment: fixed;
+    text-align: center;
+  }
+  
+  #body-footer h1 {
+    color: #1c6cb5;
+    padding-top: 150px;
+  }
+  @media (max-width: 991.98px) {
+    #body-footer{
+      height: 100vh;
+      background-repeat: no-repeat;
+    }
+    
+    #body-footer h1{
+      padding-top :250px;
+    
+    }
+  }
