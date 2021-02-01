@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eCellTask/static/css/main.57cf98e7.chunk.css",
+    "main.js": "/eCellTask/static/js/main.6bf6b87c.chunk.js",
+    "main.js.map": "/eCellTask/static/js/main.6bf6b87c.chunk.js.map",
+    "runtime-main.js": "/eCellTask/static/js/runtime-main.791e16b4.js",
+    "runtime-main.js.map": "/eCellTask/static/js/runtime-main.791e16b4.js.map",
+    "static/js/2.1b00dd2f.chunk.js": "/eCellTask/static/js/2.1b00dd2f.chunk.js",
+    "static/js/2.1b00dd2f.chunk.js.map": "/eCellTask/static/js/2.1b00dd2f.chunk.js.map",
+    "index.html": "/eCellTask/index.html",
+    "static/css/main.57cf98e7.chunk.css.map": "/eCellTask/static/css/main.57cf98e7.chunk.css.map",
+    "static/js/2.1b00dd2f.chunk.js.LICENSE.txt": "/eCellTask/static/js/2.1b00dd2f.chunk.js.LICENSE.txt",
+    "static/media/data-management.f6995e98.png": "/eCellTask/static/media/data-management.f6995e98.png",
+    "static/media/layout.b25153c7.png": "/eCellTask/static/media/layout.b25153c7.png",
+    "static/media/statistics.9e470bf3.png": "/eCellTask/static/media/statistics.9e470bf3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.791e16b4.js",
+    "static/js/2.1b00dd2f.chunk.js",
+    "static/css/main.57cf98e7.chunk.css",
+    "static/js/main.6bf6b87c.chunk.js"
+  ]
+}
